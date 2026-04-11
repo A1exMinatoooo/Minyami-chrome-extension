@@ -25,6 +25,7 @@ export const supportedSites = [
     "canan8181.com",
     "uise-official.com",
     "malice-kibana.com",
+    "sapocia.com",
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
@@ -42,6 +43,7 @@ export const needKeySites = [
     "canan8181.com",
     "uise-official.com",
     "malice-kibana.com",
+    "sapocia.com",
 ];
 export const siteAdditionalHeaders = {
     "www.openrec.tv": {
@@ -69,6 +71,7 @@ export const minyamiVersionRequirementMap = {
     "canan8181.com": "4.4.13",
     "uise-official.com": "4.4.13",
     "malice-kibana.com": "4.4.13",
+    "sapocia.com": "4.4.13",
 };
 export const statusFlags = {
     supported: 0b1,
